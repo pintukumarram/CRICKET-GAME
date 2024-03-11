@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+}
+
+.Game-title{
+  border: 2px solid black;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgb(172, 172, 247);
+  border-radius: 30px;
+}
+/* #user-move{
+  border: 2px solid red;
+  margin-left:20%;
+  margin-right:20%;
+  border-radius:30px;
+  background-color: rgb(105, 220, 224);
+
+} */
+.button{
+  /* width: 90px;
+  height: 40px; */
+  background-color: rgb(77, 197, 53);
+  cursor: pointer;
+  border: 1px solid rgb(0, 238, 255);
+  border-radius: 50%;
+  /* font-size: 16px; */
+  /* color: rgb(229, 0, 206);
+  font-weight: 800; */
+
+}
+.choice-button{
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+}
+.bat:hover{
+
+}
